@@ -1,5 +1,5 @@
 ### What is Crux Garden?
 
-It is a tool for creativity, for building and sharing your ideas with the world. A place where you own your data by default.
+Crux Garden is a tool for creativity. You can use it to build and share your ideas with the world. It is place where you own your data by default.
 
 keeper@crux.garden
